@@ -1,7 +1,0 @@
-I was trying to give Tina Fey more material.
-1 2 4 8 16 32
-1 d 857
-60 3 DrEvil
-acdegg
-6 4 2 3 5 1
-107
